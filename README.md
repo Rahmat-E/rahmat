@@ -1,6 +1,7 @@
 https://worldtravel.42web.io/admin/login.php https://worldtravel.42web.io/
 
 Email: rahmate@gmail.com Password: 230605110010
+(kalo nggak bisa ): email:admin@gmail.com pass: admin
 
 World Travel adalah website blog untuk membagikan cerita mengenai pengalaman perjalanan ke luar negri
 
